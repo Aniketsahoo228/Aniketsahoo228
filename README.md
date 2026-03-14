@@ -66,16 +66,6 @@ Currently working on a production-grade MERN e-commerce platform while deepening
 
 ---
 
-## GitHub Statistics
-
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketsahoo228&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketsahoo228&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aniketsahoo228&theme=dark&hide_border=true)
-
----
-
 ## Contact
 
 - **Email:** aniketsahoo205@gmail.com
