@@ -1,15 +1,24 @@
-# Hi there, I'm Aniket Sahoo 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0077be&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aniket+Sahoo!%3BCS%26E+Student+%7C+KIIT+University%3BFull-Stack+Developer+%7C+AI+%26+ML%3BDSA+Grinder+%7C+Cloud+Explorer%3BBuilding+real-world+products+%F0%9F%9A%80" alt="Typing Animation" />
+</div>
 
-Computer Science & Engineering Student | Full-Stack Developer | AI & ML Engineer | DSA Grinder | Cloud Explorer
-Building real-world products one commit at a time. 🚀
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aniketsahoo228&style=for-the-badge&color=0077be&labelColor=001f3f" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Aniketsahoo228?style=for-the-badge&color=0077be&labelColor=001f3f" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20Source-Love-39cccc?style=for-the-badge" alt="Open Source Love" />
+</div>
 
 ---
 
-## About
+## About Me
 
-I am a Computer Science & Engineering student at KIIT University, Bhubaneswar, focused on building scalable full-stack applications and exploring AI/ML for industrial use cases. I am committed to consistent DSA practice and cloud-native development.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Currently working on a production-grade MERN e-commerce platform while deepening expertise in machine learning pipelines and cloud architecture.
+I'm a passionate Computer Science & Engineering student at **KIIT University, Bhubaneswar**, focused on building scalable full-stack applications and exploring AI/ML for industrial use cases.
+
+- **Currently working on:** A production-grade MERN e-commerce platform.
+- **Currently learning:** Machine learning pipelines and cloud-native architecture.
+- **Fun fact:** I believe consistent commits beat occasional inspiration — every day counts!
 
 ---
 
@@ -22,37 +31,41 @@ Currently working on a production-grade MERN e-commerce platform while deepening
 
 ---
 
-## Tech Stack
+## Tech Stack & Skills
 
-**Frontend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+<div align="center">
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+<h3 align="center">Languages & Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=expressjs" alt="Express.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
+</p>
 
-**Database & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
+</p>
 
-**DSA**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+</div>
 
 ---
-
-## 🛠️ Work Platforms & Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white)
-![Emergent](https://img.shields.io/badge/Emergent-FF6B35?style=flat&logo=emergent&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ## Featured Projects
 
@@ -62,13 +75,28 @@ Currently working on a production-grade MERN e-commerce platform while deepening
 | [AI for Bharat](https://github.com/Aniketsahoo228/AI-for-Bharat) | AI-powered PDF learning platform with summarization & insights | React, FastAPI |
 | [Authentication Profile System](https://github.com/Aniketsahoo228/authentication-profile-system) | Secure JWT auth system with profile management | React, Node, Supabase |
 | [Taskflow Executive](https://github.com/Aniketsahoo228/Taskflow_executive) | Full-stack task management MVP with Swiss design principles | JS, Python |
-| [LeetCode Solutions](https://github.com/Aniketsahoo228/leetcode-solutions) | Daily DSA practice — Started March 2026 | Java |
+| [LeetCode Solutions](https://github.com/Aniketsahoo228/leetcode-solutions) | Daily DSA practice — Started March 2026 🚀 | Java |
+
+---
+
+## GitHub Statistics & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniketsahoo228&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=0077be&icon_color=0077be&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketsahoo228&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=0077be&text_color=ffffff" height="180"/>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=Aniketsahoo228&theme=tokyonight&hide_border=true&background=0d1117&stroke=0077be&ring=0077be&fire=39cccc&currStreakLabel=0077be" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketsahoo228&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0077be&line=0077be&point=ffffff" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aniketsahoo228&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
 
 ---
 
 ## Contact
 
-- **Email:** aniketsahoo205@gmail.com
-- **LinkedIn:** [Aniket Sahoo](https://www.linkedin.com/in/aniket-sahoo-b17496299/)
-- **Twitter/X:** [ANIKET SAHOO](https://x.com/aniket_sah34572)
-- **GitHub:** [Aniketsahoo228](https://github.com/Aniketsahoo228)
+- 📧 **Email:** [aniketsahoo205@gmail.com](mailto:aniketsahoo205@gmail.com)
+- 💼 **LinkedIn:** [Aniket Sahoo](https://www.linkedin.com/in/aniket-sahoo-b17496299/)
+- 🐦 **Twitter/X:** [ANIKET SAHOO](https://x.com/aniket_sah34572)
+- 🐙 **GitHub:** [Aniketsahoo228](https://github.com/Aniketsahoo228)
