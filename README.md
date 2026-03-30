@@ -76,6 +76,7 @@ I'm a passionate Computer Science & Engineering student at **KIIT University, Bh
 | [Authentication Profile System](https://github.com/Aniketsahoo228/authentication-profile-system) | Secure JWT auth system with profile management | React, Node, Supabase |
 | [Taskflow Executive](https://github.com/Aniketsahoo228/Taskflow_executive) | Full-stack task management MVP with Swiss design principles | JS, Python |
 | [LeetCode Solutions](https://github.com/Aniketsahoo228/leetcode-solutions) | Daily DSA practice — Started March 2026 🚀 | Java |
+| [BackupSystem-PiCloud](https://github.com/Aniketsahoo228/BackupSystem-PiCloud) | Personal Cloud Backup System 🚀 | FastAPI + Raspberry Pi | Secure Phone Data Sync
 
 ---
 
