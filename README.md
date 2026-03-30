@@ -76,21 +76,20 @@ I'm a passionate Computer Science & Engineering student at **KIIT University, Bh
 | [Authentication Profile System](https://github.com/Aniketsahoo228/authentication-profile-system) | Secure JWT auth system with profile management | React, Node, Supabase |
 | [Taskflow Executive](https://github.com/Aniketsahoo228/Taskflow_executive) | Full-stack task management MVP with Swiss design principles | JS, Python |
 | [LeetCode Solutions](https://github.com/Aniketsahoo228/leetcode-solutions) | Daily DSA practice — Started March 2026 🚀 | Java |
-| [BackupSystem-PiCloud](https://github.com/Aniketsahoo228/BackupSystem-PiCloud) | Personal Cloud Backup System 🚀 | FastAPI + Raspberry Pi | Secure Phone Data Sync
+| [BackupSystem-PiCloud](https://github.com/Aniketsahoo228/BackupSystem-PiCloud) | Personal Cloud Backup System 🚀 | FastAPI + Raspberry Pi | Secure Phone Data Sync |
 
 ---
 
 ## GitHub Statistics & Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniketsahoo228&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=0077be&icon_color=0077be&text_color=ffffff" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketsahoo228&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=0077be&text_color=ffffff" height="180"/>
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=Aniketsahoo228&theme=tokyonight&hide_border=true&background=0d1117&stroke=0077be&ring=0077be&fire=39cccc&currStreakLabel=0077be" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketsahoo228&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0077be&line=0077be&point=ffffff" />
-  <br>
+  
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketsahoo228&theme=tokyonight&hide_border=true&background=0d1117&stroke=0077be&ring=0077be&fire=39cccc&currStreakLabel=0077be&dates=ffffff" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketsahoo228&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0077be&line=0077be&point=ffffff&area=true" />
+  <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Aniketsahoo228&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
 </div>
 
 ---
