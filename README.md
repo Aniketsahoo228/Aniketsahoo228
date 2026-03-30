@@ -88,7 +88,6 @@ I'm a passionate Computer Science & Engineering student at **KIIT University, Bh
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketsahoo228&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0077be&line=0077be&point=ffffff&area=true" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Aniketsahoo228&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 </div>
 
