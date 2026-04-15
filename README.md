@@ -36,36 +36,19 @@ I'm a passionate Computer Science & Engineering student at **KIIT University, Bh
 <div align="center">
 
 <h3 align="center">Languages & Frameworks</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=expressjs" alt="Express.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,expressjs,python,fastapi,mongodb,supabase,java,html,css" />
 </p>
 
 <h3 align="center">Tools & Platforms</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,git,github,vscode,postman,linux" />
 </p>
 
 </div>
 
----
 
 ## Featured Projects
 
